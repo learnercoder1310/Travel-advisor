@@ -5,6 +5,11 @@ An advanced Travel Companion web application built using **React**, **Google Map
 
 
 ---
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+--
 
 ## ✨ Features
 
@@ -16,8 +21,6 @@ An advanced Travel Companion web application built using **React**, **Google Map
 - ⚛️ **React Best Practices** – Clean folder structure, use of hooks, and functional components.
 - 🎨 **Material-UI Interface** – Sleek, modern, and responsive UI built with MUI.
 - ⚡ **API-powered** – Real-time data fetched using RapidAPI & Google services.
-
----
 
 
 
