@@ -1,6 +1,8 @@
 # 🌍 Travel Companion Application
 
 An advanced Travel Companion web application built using **React**, **Google Maps API**, **Geolocation**, and **RapidAPI**. The app allows users to discover nearby **restaurants**, **hotels**, and **attractions** based on their current location or a searched location.
+
+
 ---
 ![image alt](https://github.com/learnercoder1310/Travel-advisor/blob/5bd86432ef35b0a246944361298ee44cb19c71b2/output/travel2.png)
 
