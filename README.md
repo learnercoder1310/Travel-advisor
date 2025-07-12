@@ -5,11 +5,7 @@ An advanced Travel Companion web application built using **React**, **Google Map
 
 
 ---
-In the project directory, you can run:
 
-npm start
-Runs the app in the development mode.
---
 
 ## ✨ Features
 
