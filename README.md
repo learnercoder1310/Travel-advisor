@@ -21,18 +21,19 @@ An advanced Travel Companion web application built using **React**, **Google Map
 
 
 ## 📁 Folder Structure 
-public/
-├──index.html
 src/
 ├── api/
 │   └── index.js                 # API logic using axios
+│
 ├── components/                  # All reusable UI components
 │   ├── Header/
 │   │   ├── Header.jsx
 │   │   └── styles.js
+│   │
 │   ├── List/
 │   │   ├── List.jsx
 │   │   └── styles.js
+│   │
 │   ├── Map/
 │   │   ├── Map.jsx
 │   │   ├── mapStyles.js
@@ -44,5 +45,6 @@ src/
 │
 ├── App.js                       # Main application component
 ├── index.js                     # Entry point of the React app
+
 
 
